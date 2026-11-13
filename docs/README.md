@@ -540,15 +540,7 @@ cd ../frontend && npm run dev
 
 ---
 
-## 🙏 Support the Project
 
-If C.O.V.E.R.T helps you or your cause, consider:
-
-- ⭐ Star this repository
-- 🐛 Report bugs and suggest features
-- 💻 Contribute code
-- 📢 Spread the word
-- 💰 Donate: `0xYourEthereumAddress`
 
 ---
 
